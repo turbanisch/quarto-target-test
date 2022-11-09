@@ -1,0 +1,12 @@
+---
+title: "homepage"
+---
+
+This is a Quarto website.
+
+```{r}
+targets::tar_read(gt_table)
+```
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
