@@ -1,4 +1,8 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|fd096dfaf98b08a2|||||||||||||||
+.Random.seed|object|9b135beb06821b9d|||||||||||||||
 gt_table|stem|6906bfc68a00420e|a455f31d68c73634|b49e87ef8b162fe7|-826781850||t19305.4254183778s|609cef28f3182bb0|3268|rds|local|vector|||0.082||
-homepage|stem|bfafe4b2b964dcf3|3f5a35d6529b184e|45dd6b9849833eaf|978068440|homepage/_site*homepage/about.qmd*homepage/index.qmd*homepage/_quarto.yml*homepage/styles.css|t19305.4312114705s|cfea35fe5c93d397|821117|file|local|vector|||3.042||
+homepage|stem|e0dfde409a2dd43a|c460635e49867ad4|d84d7cdd1c3c4b08|978068440|homepage/_site*homepage/about.qmd*homepage/index.qmd*homepage/_quarto.yml*homepage/styles.css|t19312.0197836195s|735f1724fb1d6c23|628|file|local|vector|||2.489||
+img_path|stem|948fa8e00796fc35|32fa5abda6584cc0|ef46db3751d8e999|-1751343444|img/logo.png|t19303.5690053462s|3106f7047145bbd1|7412|file|local|vector|||0.473||
+jpg_path|stem|79f2842a1c955377|0e8b043a6a4df0e6|ef46db3751d8e999|183155325|img/logo.jpg|t19312.0089606097s|16ee9cab722acb85|16861|file|local|vector|||0.436||
+png_path|stem|948fa8e00796fc35|32fa5abda6584cc0|ef46db3751d8e999|1052969886|img/logo.png|t19303.5690053462s||7412|file|local|vector|||||_paths_ 31mmissing files imglogo.png39m
+table|stem|6906bfc68a00420e|49a70340163a29ba|85368fc260604f63|-1420435068||t19311.6659502786s|609cef28f3182bb0|3268|rds|local|vector|||0.505||

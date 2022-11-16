@@ -5,8 +5,6 @@ title: "homepage"
 This is a Quarto website.
 
 ```{r}
-targets::tar_read(gt_table)
+knitr::include_graphics("homepage/img/Rplot.png")
 ```
 
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

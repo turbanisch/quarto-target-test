@@ -9,6 +9,5 @@ tar_option_set(
 
 # Replace the target list below with your own:
 list(
-  tar_target(gt_table, gt::gt(mtcars)),
   tar_quarto(homepage, "homepage/")
 )
